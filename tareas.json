@@ -1,0 +1,23 @@
+{
+  "tareas": [
+    {
+      "id": "1",
+      "descripcion": "Finalizar el informe anual",
+      "fecha_limite": "2024-06-01 17:00:00",
+      "estado": "completada",
+      "fecha_creacion": "2024-05-25 19:13:03",
+      "prioridad": "alta",
+      "categoria": "trabajo",
+      "nota": "Incluir datos de ventas del ultimo trimestre"
+    },
+    {
+      "id": "2",
+      "descripcion": "comer",
+      "fecha_limite": "02/07/2024",
+      "estado": "Pendiente",
+      "fecha_creacion": "26/05/2024",
+      "prioridad": "alta",
+      "nota": "comprar carne"
+    }
+  ]
+}
